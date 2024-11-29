@@ -1,0 +1,43 @@
+body {
+    text-align:center;
+      background-image: url("rajan.jpg");
+  background-size: cover
+
+}
+#target {
+    font-size:70px;
+    text-align: center;
+   }
+#target::after-letter{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+#target:first-letter{
+    color:rgb(255, 0, 0);
+    font-size:80px;
+    text-align: center;
+}
+button{
+    font-size:50px;
+    background-color:white(0, 81, 255);
+    color:rgb(7, 7, 7);
+}
+target-text{
+    color: white;
+}
+div{
+    font-size:100px;
+    color: rgba(223, 57, 57, 0.578);
+    text-align: center;
+}
+h4{
+    color: rgba(0, 0, 0, 0.626);
+
+}
+
+
+
+    
+
+
